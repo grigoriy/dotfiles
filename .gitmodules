@@ -1,0 +1,24 @@
+[submodule "dotvim"]
+	path = dotvim
+	url = git@github.com:grigoriy/dotvim.git
+[submodule "dotbash"]
+	path = dotbash
+	url = git@github.com:grigoriy/dotbash.git
+[submodule "dotpentadactyl"]
+	path = dotpentadactyl
+	url = git@github.com:grigoriy/dotpentadactyl.git
+[submodule "dotxmonad"]
+	path = dotxmonad
+	url = git@github.com:grigoriy/dotxmonad.git
+[submodule "dotx"]
+	path = dotx
+	url = git@github.com:grigoriy/dotx.git
+[submodule "dotxmobar"]
+	path = dotxmobar
+	url = git@github.com:grigoriy/dotxmobar.git
+[submodule "dotweechat"]
+	path = dotweechat
+	url = git@github.com:grigoriy/dotweechat.git
+[submodule "rss-feeds"]
+	path = rss-feeds
+	url = git@github.com:grigoriy/rss-feeds.git
