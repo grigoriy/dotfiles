@@ -1,0 +1,18 @@
+Plugins:
+--------
+OpenH264 Video Codec provided by Cisco Systems, Inc.
+Shockwave Flash
+Java(TM) Plug-in
+
+Add-ons
+-------
+Quick Translator
+Google™ Hangouts (Chat, Talk and Video Calls)
+DNS Flusher
+Gmail Notifier (restartless)
+Xmarks
+Adblock Plus
+LastPass
+Pentadactyl
+FlashGot Mass Downloader
+Tree Style Tab
