@@ -22,3 +22,9 @@
 [submodule "rss-feeds"]
 	path = rss-feeds
 	url = git@github.com:grigoriy/rss-feeds.git
+[submodule "dotidea"]
+	path = dotidea
+	url = git@github.com:grigoriy/dotidea.git
+[submodule "dotalsa"]
+	path = dotalsa
+	url = git@github.com:grigoriy/dotalsa.git
