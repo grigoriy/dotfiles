@@ -7,7 +7,10 @@ mv_old_and_link() {
     ln -s ${PWD}/$1 $2
 }
 
+DOTFILES="~/dotfiles"
+mkdir $DOTFILES
 git submodule update --init --recursive
+cd $DOTFILES
 
 mv_old_and_link dotbash/bashrc ~/.bashrc
 mv_old_and_link dotbash/bash_profile ~/.bash_profile
@@ -23,3 +26,5 @@ mv_old_and_link dotx/Xresources ~/.Xresources
 mv_old_and_link dotx/xscreensaver ~/.xscreensaver
 mv_old_and_link dotxmonad/xmonad.hs ~/.xmonad/xmonad.hs
 mv_old_and_link dotxmobar/xmobarrc ~/.xmobarrc
+mv_old_and_link dotidea/ ~/.IntellijIdea14/config
+mv_old_and_link dotalsa/asoundrc ~/.asoundrc
