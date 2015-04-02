@@ -7,7 +7,7 @@ mv_old_and_link() {
     ln -s ${PWD}/$1 $2
 }
 
-DOTFILES="~/dotfiles"
+DOTFILES=~/dotfiles
 mkdir $DOTFILES
 git submodule update --init --recursive
 cd $DOTFILES
